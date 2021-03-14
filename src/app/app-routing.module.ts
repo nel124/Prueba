@@ -16,4 +16,6 @@ export class ClassName extends AnotherClass {
 		Prueba
 	}
 	constructor2)=:
+	Prueba = "Gola Mundo, extraño mucho a mi flaquita, tal ves mas que a mis hijos"
+	console.log("ME falto esto");
 }
