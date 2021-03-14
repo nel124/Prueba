@@ -9,4 +9,10 @@ const routes: Routes = [];
 })
 export class AppRoutingModule { }
 
-
+export class ClassName extends AnotherClass {
+	
+	constructor(argument) {
+		// code...
+		Prueba
+	}
+}
