@@ -15,4 +15,5 @@ export class ClassName extends AnotherClass {
 		// code...
 		Prueba
 	}
+	constructor2)=:
 }
